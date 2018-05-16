@@ -1,0 +1,6 @@
+Flask==1.0.2
+requests==2.18.4
+Werkzeug==0.14.1
+urllib3==1.22
+Jinja2==2.10
+attrs==18.1.0
